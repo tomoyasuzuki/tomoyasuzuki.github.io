@@ -25,7 +25,6 @@ paginate = 20
     authorbox = true
     post_meta = ["date", "categories"]
     twitter_cards = true
-    DateForm = "2.1.2006"
 
 # ページのテーマカラー
 [Params.style.vars]
