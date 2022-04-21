@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://tomoyasuzuki.github.io.sitemap.xml
+Sitemap: https://tomoyasuzuki.github.io/tomoyasuzuki.github.iositemap.xml
