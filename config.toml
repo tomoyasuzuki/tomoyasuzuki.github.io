@@ -1,5 +1,5 @@
 # 公開するページのURL
-baseURL = "https://tomoyasuzuki.github.io."
+baseURL = "https://tomoyasuzuki.github.io/tomoyasuzuki.github.io"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
