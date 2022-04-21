@@ -7,7 +7,7 @@ HasCJKLanguage = true
 enableRobotsTXT = true
 
 # ブログのタイトル
-title = "[tech-memo].[com]"
+title = "my-tech-blog"
 
 theme = "mainroad"
 paginate = 20
