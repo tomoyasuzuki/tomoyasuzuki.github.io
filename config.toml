@@ -15,7 +15,7 @@ paginate = 20
 # 自己紹介
 [Author]
     name = "Tomoya Suzuki"
-    bio = "Software Engineer
+    bio = "Software Engineer"
     avatar = "img/avatar.png"
 
 [Params]
